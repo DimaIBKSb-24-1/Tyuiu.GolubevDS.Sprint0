@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D716E80E-E633-41C7-A19C-BE5DFD93D26B}</ProjectGuid>
+    <ProjectGuid>{8DDC28B2-9C2C-4230-8543-3C3BB98DDDC2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Tyuiu.GolubevDS.Sprint0.Task3.V0</RootNamespace>
     <AssemblyName>Tyuiu.GolubevDS.Sprint0.Task3.V0</AssemblyName>
@@ -51,7 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Tyuiu.GolubevDS.Sprint0.Task3.V0.Lib\Tyuiu.GolubevDS.Sprint0.Task3.V0.Lib.csproj">
-      <Project>{600c180c-8d64-4459-907c-fd3bdb34f3fc}</Project>
+      <Project>{ad0fa388-a69d-4d29-8ddb-c5cc03e59f4f}</Project>
       <Name>Tyuiu.GolubevDS.Sprint0.Task3.V0.Lib</Name>
     </ProjectReference>
   </ItemGroup>

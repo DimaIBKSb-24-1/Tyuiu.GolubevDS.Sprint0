@@ -4,12 +4,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EDDEB315-CAC1-43E2-A3BC-2E14789F11C5}</ProjectGuid>
+    <ProjectGuid>{D1131574-DD63-4969-8D2B-2C9AE9869D61}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.GolubevDS.Sprint0.Task2.V0.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.GolubevDS.Sprint0.Task2.V0.Lib</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <RootNamespace>Tyuiu.GolubevDS.Sprint0.Task4.V0.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.GolubevDS.Sprint0.Task4.V0.Lib</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
   </PropertyGroup>

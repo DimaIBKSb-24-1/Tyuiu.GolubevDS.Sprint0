@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{21C9E9FD-557D-4903-B74F-0001D3AAB74B}</ProjectGuid>
+    <ProjectGuid>{21CC463A-2A68-476B-BD72-15CB63D4E520}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Tyuiu.GolubevDS.Sprint0.Task2.V0</RootNamespace>
     <AssemblyName>Tyuiu.GolubevDS.Sprint0.Task2.V0</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
@@ -51,7 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Tyuiu.GolubevDS.Sprint0.Task2.V0.Lib\Tyuiu.GolubevDS.Sprint0.Task2.V0.Lib.csproj">
-      <Project>{1edafb51-da2b-4d8f-9990-be1734198de8}</Project>
+      <Project>{eddeb315-cac1-43e2-a3bc-2e14789f11c5}</Project>
       <Name>Tyuiu.GolubevDS.Sprint0.Task2.V0.Lib</Name>
     </ProjectReference>
   </ItemGroup>

@@ -4,10 +4,10 @@ using Tyuiu.GolubevDS.Sprint0.Task3.V0.Lib;
 namespace Tyuiu.GolubevDS.Sprint0.Task3.V0.Test
 {
     [TestClass]
-    public class DataServiceTest
+    public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void CheckValid()
         {
             Assert.AreEqual(10, DataService.Sum(5, 5));
         }

@@ -8,10 +8,11 @@ using Tyuiu.GolubevDS.Sprint0.Task2.V0.Lib;
 
 namespace Tyuiu.GolubevDS.Sprint0.Task2.V0
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(DataService.GetMessage("Дима"));
             Console.ReadKey();
         }
     }
